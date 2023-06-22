@@ -1,3 +1,3 @@
 # hello
 
-THis is a quick mybinder R test
+This is a quick mybinder R test
